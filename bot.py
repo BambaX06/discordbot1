@@ -107,4 +107,4 @@ async def panel(ctx):
 # -------------------------------
 # تشغيل البوت
 # -------------------------------
-bot.run("MTQ0OTA2MzQzNTkwMjkxMDUyNg.GKqEUe.XAcBdlF9PCK3Gm4sKlEulNRFbLoCfS_pwJ6aj4")
+bot.run("MTQ0OTA2MzQzNTkwMjkxMDUyNg.G2m9a-.dFVA_SsrJ-ORq-GmfPBJhLib8DyKg_KQlLC0-Y")
